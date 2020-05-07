@@ -1,0 +1,11 @@
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.exe
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.deps.json
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.runtimeconfig.json
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.runtimeconfig.dev.json
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.dll
+D:\GH\tugas6\p\bin\Debug\netcoreapp3.1\p.pdb
+D:\GH\tugas6\p\obj\Debug\netcoreapp3.1\p.csprojAssemblyReference.cache
+D:\GH\tugas6\p\obj\Debug\netcoreapp3.1\p.AssemblyInfoInputs.cache
+D:\GH\tugas6\p\obj\Debug\netcoreapp3.1\p.AssemblyInfo.cs
+D:\GH\tugas6\p\obj\Debug\netcoreapp3.1\p.dll
+D:\GH\tugas6\p\obj\Debug\netcoreapp3.1\p.pdb
